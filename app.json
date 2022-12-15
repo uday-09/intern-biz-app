@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "Feedback",
+    "slug": "Feedback",
+    "version": "1.0.7",
+    "orientation": "portrait",
+    "icon": "./assets/mainIcon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/mainSplash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "permissions": [],
+      "versionCode": 107,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/mainIcon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.bizApp.v1"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
